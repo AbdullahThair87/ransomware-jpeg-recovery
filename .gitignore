@@ -1,6 +1,6 @@
-   .venv/
-   __pycache__/
-   *.dehd
-   *_recovered.jpg
-   recovered*/
-   .DS_Store
+.venv/
+__pycache__/
+*.dehd
+*_recovered.jpg
+recovered*/
+.DS_Store
